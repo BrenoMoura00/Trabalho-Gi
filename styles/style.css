@@ -107,6 +107,7 @@ body{
 }
 .apresentacao__links__subtitulo{
     font-family: var(--fonte-primaria);
+    padding-left: 55px;
     font-weight: 400;
     font-size: 1.5rem;
 }
